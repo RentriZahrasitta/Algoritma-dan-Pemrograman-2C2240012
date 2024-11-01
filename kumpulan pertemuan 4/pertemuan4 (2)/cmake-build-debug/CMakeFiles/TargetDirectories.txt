@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/pertemuan4 (2)/cmake-build-debug/CMakeFiles/pertemuan4__2_.dir
+C:/Users/LENOVO/CLionProjects/pertemuan4 (2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/pertemuan4 (2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
