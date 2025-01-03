@@ -1,0 +1,4 @@
+Ini adalah contoh penulisan file dalam C++.
+Ini adalah contoh penulisan file dalam C++.
+Rentri.
+Rentri 2C2240012
